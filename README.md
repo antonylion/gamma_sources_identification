@@ -1,4 +1,4 @@
-# gamma_sources_identification
+# Finding gamma-ray sources into images taken with gamma-ray telecopes
 
 ## Instructions for creating the virtual environment and running the notebook
 Prerequisite for creating the virtual environment and running the notebook of this project: anaconda3 installed {https://www.anaconda.com/products/individual}
