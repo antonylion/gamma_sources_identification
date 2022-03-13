@@ -1,5 +1,5 @@
-conda create -y -n cta_proj python=3.7 astropy
-source activate cta_proj
+conda create -y -n cta_simulation python=3.7 astropy
+source activate cta_simulation
 conda install -y -c conda-forge -c cta-observatory ctools
 cd temp
 unzip CTA-Performance-IRFs-prod3b-v2-v1.0.0.zip
@@ -7,7 +7,7 @@ tar xvfz CTA-Prod3-Zenodo-main/fits/CTA-Performance-prod3b-v2-FITS.tar.gz -C $CT
 cd ..
 #rm -r temp
 conda install -y -c anaconda ipykernel
-python -m ipykernel install --user --name=cta_proj
+python -m ipykernel install --user --name=cta_simulation
 
 pip3 install opencv-python==3.4.2.16
 pip3 install opencv-contrib-python==3.4.2.16
