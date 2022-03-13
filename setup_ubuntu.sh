@@ -10,8 +10,8 @@ cd ..
 conda install -y -c anaconda ipykernel
 python -m ipykernel install --user --name=cta_simulation
 
-pip3 install opencv-python==3.4.2.16
-pip3 install opencv-contrib-python==3.4.2.16
+pip3 install opencv-python==3.4.2.17
+pip3 install opencv-contrib-python==3.4.2.17
 pip3 install jupyter
 pip3 install matplotlib
 pip3 install numpy
