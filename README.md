@@ -20,7 +20,7 @@ After everything has been set up:
 - clone or download this repo to your machine
 - open a terminal in the directory of your local copy of this repo
 - type "*conda create -y -n cta_simulation python=3.7 astropy*"
-- once the virtual environment has been set up, type "*conda activate cta_simulation*"
+- once the virtual environment has been created, type "*conda activate cta_simulation*"
 - type "*bash setup_ubuntu.sh*"
 
 
