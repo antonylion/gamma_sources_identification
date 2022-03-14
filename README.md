@@ -13,7 +13,7 @@ Prerequisite for creating the virtual environment and running the notebook of th
 After everything has been set up:
 - open a terminal in the *notebook* directory of your local copy of this repo
 - type "*conda activate cta_simulation*"
-- having entered the *cta_simulation* virtual environment, run jupyter notebook through typing "*jupyter notebook --ip 127.0.0.1*"
+- having entered the *cta_simulation* virtual environment, run jupyter notebook by typing "*jupyter notebook --ip 127.0.0.1*"
 
 ### Instructions for Ubuntu
 {Tested for Ubuntu 20.04.1 LTS}
@@ -26,5 +26,5 @@ After everything has been set up:
 
 After everything has been set up:
 - open a terminal in the *notebook* directory of your local copy of this repo
-- type "*conda activate cta_proj*"
-- having entered the *cta_proj* virtual environment, run jupyter notebook through typing "*jupyter notebook --ip 127.0.0.1*"
+- type "*conda activate cta_simulation*"
+- having entered the *cta_simulation* virtual environment, run jupyter notebook by typing "*jupyter notebook --ip 127.0.0.1*"
