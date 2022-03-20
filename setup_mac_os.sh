@@ -2,8 +2,7 @@ conda create -y -n cta_simulation python=3.7 astropy
 source activate cta_simulation
 conda install -y -c conda-forge -c cta-observatory ctools
 cd temp
-unzip CTA-Performance-IRFs-prod3b-v2-v1.0.0.zip
-tar xvfz CTA-Prod3-Zenodo-main/fits/CTA-Performance-prod3b-v2-FITS.tar.gz -C $CTOOLS/share
+tar xvfz CTA-Performance-prod3b-v2-FITS.tar.gz -C $CTOOLS/share
 cd ..
 #rm -r temp
 conda install -y -c anaconda ipykernel
