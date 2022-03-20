@@ -16,6 +16,7 @@ After everything has been set up:
 - open a terminal in the *notebook* directory of your local copy of this repo
 - type "*conda activate cta_simulation*"
 - having entered the *cta_simulation* virtual environment, run jupyter notebook by typing "*jupyter notebook --ip 127.0.0.1*"
+- as jupyter notebook starts, open "Project Antony Zappacosta.ipynb"
 
 ### Instructions for Ubuntu
 {Tested for Ubuntu 20.04.1 LTS and 18.04.6 LTS}
@@ -31,3 +32,4 @@ After everything has been set up:
 - open a terminal in the *notebook* directory of your local copy of this repo
 - type "*conda activate cta_simulation*"
 - having entered the *cta_simulation* virtual environment, run jupyter notebook by typing "*jupyter notebook --ip 127.0.0.1*"
+- as jupyter notebook starts, open "Project Antony Zappacosta.ipynb"
