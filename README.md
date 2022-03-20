@@ -23,8 +23,8 @@ After everything has been set up:
 - open a terminal in the directory of your local copy of this repo
 - type "*conda create -y -n cta_simulation python=3.7 astropy*"
 - once the virtual environment has been created, type "*conda activate cta_simulation*"
-- thus enter the following command to install ctools: "*conda install -y -c conda-forge -c cta-observatory ctools*"
-- then type "*bash setup_ubuntu.sh*"
+- thus enter the following command to install ctools: "*conda install -y -c conda-forge -c cta-observatory ctools*" (if you get a CondaHTTPError, just retry entering the same command)
+- install all the other necessary libraries through the devoted script by typing "*bash setup_ubuntu.sh*"
 
 
 After everything has been set up:
