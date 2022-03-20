@@ -1,10 +1,12 @@
 # Finding gamma-ray sources into images taken with gamma-ray telecopes
 
 ## Instructions for creating the virtual environment and running the notebook
-Prerequisite for creating the virtual environment and running the notebook of this project: anaconda3 installed {https://www.anaconda.com/products/individual}
+Prerequisite for creating the virtual environment and running the notebook of this project: 
+- anaconda3 installed {https://www.anaconda.com/products/individual}
+- MacOS or Ubuntu as operating system (ctools library used in this project is not supported by Windows)
 
 ### Instructions for Mac-OS
-{Tested for macOS Monterey 12.0.1}
+{Tested for MacOS Monterey 12.0.1}
 - clone or download this repo to your machine
 - open a terminal in the directory of your local copy of this repo
 - type "*sh setup_mac_os.sh*"
