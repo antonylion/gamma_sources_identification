@@ -3,7 +3,7 @@
 ## Instructions for creating the virtual environment and running the notebook
 Prerequisite for creating the virtual environment and running the notebook of this project: 
 - anaconda3 installed {https://www.anaconda.com/products/individual}
-- MacOS or Ubuntu as operating system (the ctools library used in this project is not supported by Windows)
+- MacOS or Ubuntu as operating system (the ctools library required for this project is not supported by Windows)
 
 ### Instructions for Mac-OS
 {Tested for MacOS Monterey 12.0.1}
