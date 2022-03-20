@@ -1,7 +1,7 @@
 #!/bin/bash
 #conda create -y -n cta_simulation python=3.7 astropy
 #conda activate cta_simulation
-conda install -y -c conda-forge -c cta-observatory ctools
+#conda install -y -c conda-forge -c cta-observatory ctools
 cd temp
 tar xvfz CTA-Performance-prod3b-v2-FITS.tar.gz -C $CTOOLS/share
 cd ..
