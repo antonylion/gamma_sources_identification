@@ -16,7 +16,7 @@ After everything has been set up:
 - having entered the *cta_simulation* virtual environment, run jupyter notebook by typing "*jupyter notebook --ip 127.0.0.1*"
 
 ### Instructions for Ubuntu
-{Tested for Ubuntu 20.04.1 LTS}
+{Tested for Ubuntu 20.04.1 LTS and 18.04.6 LTS}
 - clone or download this repo to your machine
 - open a terminal in the directory of your local copy of this repo
 - type "*conda create -y -n cta_simulation python=3.7 astropy*"
