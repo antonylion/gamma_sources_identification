@@ -1,4 +1,4 @@
-# Finding gamma-ray sources into images taken with gamma-ray telecopes
+# Finding gamma-ray sources into images taken with gamma-ray telescopes
 
 ## Instructions for creating the virtual environment and running the notebook
 Prerequisites for creating the virtual environment and running the notebook of this project: 
