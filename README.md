@@ -1,6 +1,9 @@
 # Finding gamma-ray sources into images taken with gamma-ray telescopes
 
-## Instructions for creating the virtual environment and running the notebook
+## Easy look at the project without running the Jupiter Notebook
+<a id="raw-url" href="https://github.com/antonylion/gamma_sources_identification/raw/main/Project%20Antony%20Zappacosta.pdf">Download the pdf file</a>
+
+## Instructions for creating the virtual environment and running the Notebook
 Prerequisites for creating the virtual environment and running the notebook of this project: 
 - Anaconda3 installed {https://www.anaconda.com/products/individual}
 - MacOS or Ubuntu as operating system (the ctools library required for this project is not supported by Windows)
