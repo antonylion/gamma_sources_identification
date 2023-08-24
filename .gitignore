@@ -1,0 +1,4 @@
+CNN_project/dataset/
+CNN_project/gray*
+CNN_project/magma*
+CNN_project/.ipynb_checkpoints/
