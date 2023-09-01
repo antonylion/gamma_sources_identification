@@ -2,3 +2,5 @@ CNN_project/dataset/
 CNN_project/gray*
 CNN_project/magma*
 CNN_project/.ipynb_checkpoints/
+CNN_project/all_datasets/
+CNN_project/all_datasets.zip
